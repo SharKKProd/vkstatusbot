@@ -26,7 +26,7 @@
 
 * Twitter: [@Sharkker_live](https://twitter.com/Sharkker\_live)
 * Github: [@SharKKProd](https://github.com/SharKKProd)
-* ВКонтакте: [@sanya.bumaga] (https://vk.com/sanya.bumaga)
+* VKontakte: [@sanya.bumaga](https://vk.com/sanya.bumaga)
 
 ## Покажите вашу поддержку
 
