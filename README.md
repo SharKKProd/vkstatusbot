@@ -6,8 +6,6 @@
   </a>
   <a href="https://twitter.com/Sharkker_live" target="_blank">
     <img alt="Твиттер: Sharkker_live" src="https://img.shields.io/twitter/follow/Sharkker\_live.svg?style=social" />
-  <a href="https://vk.com/sanya.bumaga" target="_blank">
-    <img alt="ВКонтакте: sanya.bumaga"/>
   </a>
 </p>
 
@@ -26,8 +24,9 @@
 
 👤 **SharKK**
 
-* Twitter: [@Sharkker\_live](https://twitter.com/Sharkker\_live)
+* Twitter: [@Sharkker_live](https://twitter.com/Sharkker\_live)
 * Github: [@SharKKProd](https://github.com/SharKKProd)
+* ВКонтакте: [@sanya.bumaga] (https://vk.com/sanya.bumaga)
 
 ## Покажите вашу поддержку
 
