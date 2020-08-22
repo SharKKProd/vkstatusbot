@@ -4,10 +4,10 @@
   <a href="#" target="_blank">
     <img alt="License: SharKKProd" src="https://img.shields.io/badge/License-SharKKProd-yellow.svg" />
   </a>
-  <a href="https://twitter.com/Sharkker\_live" target="_blank">
-    <img alt="Твиттер: Sharkker\_live" src="https://img.shields.io/twitter/follow/Sharkker\_live.svg?style=social" />
+  <a href="https://twitter.com/Sharkker_live" target="_blank">
+    <img alt="Твиттер: Sharkker_live" src="https://img.shields.io/twitter/follow/Sharkker\_live.svg?style=social" />
   <a href="https://vk.com/sanya.bumaga" target="_blank">
-    <img alt="ВКонтакте: sanya.bumaga" src="https://stasmatveev.ru/wp-content/uploads/2015/10/VK.jpg" />
+    <img alt="ВКонтакте: sanya.bumaga"/>
   </a>
 </p>
 
