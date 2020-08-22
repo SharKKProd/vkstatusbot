@@ -5,28 +5,30 @@
     <img alt="License: SharKKProd" src="https://img.shields.io/badge/License-SharKKProd-yellow.svg" />
   </a>
   <a href="https://twitter.com/Sharkker\_live" target="_blank">
-    <img alt="Twitter: Sharkker\_live" src="https://img.shields.io/twitter/follow/Sharkker\_live.svg?style=social" />
+    <img alt="Твиттер: Sharkker\_live" src="https://img.shields.io/twitter/follow/Sharkker\_live.svg?style=social" />
+  <a href="https://vk.com/sanya.bumaga" target="_blank">
+    <img alt="ВКонтакте: sanya.bumaga" src="https://stasmatveev.ru/wp-content/uploads/2015/10/VK.jpg" />
   </a>
 </p>
 
 > Бот для который ставит смайлики в статусе (на странице)
 
-## Usage
+## Использование
 
 ```sh
-Откройте CMD через WIN + R и напишите &#34;pip install vk_api&#34; без кавычек
-Далее &#34;pip install time&#34; без кавычек (не обращайте внимание на ошибки)                                                                                                                                             
-Далее &#34;pip install random&#34; без кавычек (также не обращайте внимание, все хорошо)                                                                                                                                   
+Откройте CMD через WIN + R и напишите "pip install vk_api" без кавычек
+Далее "pip install time" без кавычек (не обращайте внимание на ошибки)                                                                                                                                             
+Далее "pip install random" без кавычек (также не обращайте внимание, все хорошо)                                                                                                                                   
 Поздравляем! Теперь скачайте Python скрипт и запускайте его, вводите данные и не закрывайте скрипт! Если выдает не 1, а 221 значит - Получает текст статуса пользователя или сообщества.
 ```
 
-## Author
+## Автор
 
 👤 **SharKK**
 
 * Twitter: [@Sharkker\_live](https://twitter.com/Sharkker\_live)
 * Github: [@SharKKProd](https://github.com/SharKKProd)
 
-## Show your support
+## Покажите вашу поддержку
 
 Дайте ⭐️ если этот проект помог вам! 
