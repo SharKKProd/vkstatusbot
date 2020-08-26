@@ -14,7 +14,10 @@ vk = vk_session.get_api()
 random123 = ['😀', '🙂', '😉','🙃','😇','😛','🧐','😍','🤔','☺','😐','😑','🤨','🤐','🤫','😶','😏','😴','😌']
 
 while True:
-	print(vk.status.set(text=random.choice(random123)))
-	print('Статус изменен | The status has been changed.')
+	result = vk.status.set(text=random.choice(random123)
+        if result == '1':
+            print('Статус успешно поменен.')
+        else:
+	    print('Ошибка')
 	print()
 	time.sleep(300)
